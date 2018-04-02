@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>五华县国家税务局</title>
+<title>SSM框架</title>
 <%
 	pageContext.setAttribute("APP_PATH", request.getContextPath());
 %>
